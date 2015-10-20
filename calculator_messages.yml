@@ -1,0 +1,8 @@
+welcome: "Welcome to Calculator! Enter your name:"
+valid_name: "Make sure to end a valid name."
+first_num: "What's the first number?"
+hmm: "Hmm...that doesn't look like a valid number."
+second_num: "What's the second number?"
+choose: "Must choose 1, 2, 3 or 4"
+replay: "Do you want to perform another calculation? (Y to calculate again.) "
+bye: "Thanks for using the Calculator app. Good-bye!"
